@@ -2,7 +2,7 @@
 
 ## Digital Paint
 
-É um aplicativo que com base na área em m² disponível em 4 paredes calcula quantas e quais latas de tintas serão necessárias para pintar elas todas
+É um aplicativo que com base na área em m² disponível em 4 paredes calcula quantas e quais latas de tintas serão necessárias para pinta-las
 
 ### Principais Tecnologias utilizadas
 
