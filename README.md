@@ -25,9 +25,11 @@
 
 - ``` npm start```
 
-##### Par rodar testes:
+##### Para rodar testes:
 
 - ``` npm test ```
 - Tecle "a"
+
+##### Acesse a aplicação <a href="https://digital-paint.herokuapp.com/">Online</a>
 
 ##### Projeto desenvolvido por @IsaacMagno
