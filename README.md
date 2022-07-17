@@ -13,10 +13,10 @@
 ### Como utilizar
 
 ##### Clone o repositório:
-- ```git clone git@gitlab.com:isaacmagno98/digital-republic-code-challenge.git ```
+- ```git clone git@github.com:IsaacMagno/digital_paint.git ```
 
 ##### Acesse o diretório do projeto:
-- ``` cd digital-republic-code-challenge/digital-paint```
+- ``` cd digital-paint/```
 
 ##### Instale as dependencias:
 - ```npm install```
