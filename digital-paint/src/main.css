@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(66, 1, 75);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  color: #ed6700;
+  text-align: center;
+}
+
+button {
+  margin-top: 25px;
+}
+
+input[type="number"] {
+  padding: 12px 20px;
+  margin: 8px 3px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input:hover {
+  cursor: pointer;
+}
+
+button {
+  outline: none;
+  height: 40px;
+  text-align: center;
+  width: 130px;
+  border-radius: 40px;
+  background: #fff;
+  border: 2px solid rgba(220, 220, 220, 0.745);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.container-flex {
+  margin-top: 80px;
+}
+
+.container {
+  text-align: center;
+  margin-top: 30px;
+  margin: auto;
+  background-color: gainsboro;
+  border-radius: 15px;
+  width: 70%;
+  padding: 50px;
+}
+
+.p-lower {
+  margin-bottom: 30px;
+  font-size: 12px;
+}
